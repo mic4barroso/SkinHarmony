@@ -1,0 +1,14 @@
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\bin\Debug\UITiendaCosmeticos.exe
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\bin\Debug\BLL.dll
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\bin\Debug\DAL.dll
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.csproj.AssemblyReference.cache
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.Form1.resources
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.PantallaAdministrador.resources
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.PantallaGerente.resources
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.Properties.Resources.resources
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.csproj.GenerateResource.cache
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.csproj.CoreCompileInputs.cache
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\bin\Debug\BLL.pdb
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\bin\Debug\DAL.pdb
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.exe
+C:\Users\barro\source\repos\TiendaCosmeticos\UITiendaCosmeticos\obj\Debug\UITiendaCosmeticos.pdb
