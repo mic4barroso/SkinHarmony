@@ -45,5 +45,10 @@ namespace CapaPresentacion
             PantallaGestionProductos pantallaGestionProductos = new PantallaGestionProductos();
             pantallaGestionProductos.ShowDialog();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            label2.Text = DateTime.Now.ToString();
+        }
     }
 }
