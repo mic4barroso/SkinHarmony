@@ -52,6 +52,12 @@
     <Compile Include="PantallaAgregarProducto.Designer.cs">
       <DependentUpon>PantallaAgregarProducto.cs</DependentUpon>
     </Compile>
+    <Compile Include="PantallaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaClientes.Designer.cs">
+      <DependentUpon>PantallaClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="PantallaGestorDeClientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -100,6 +106,12 @@
     <Compile Include="PantallaHistorialVentas.Designer.cs">
       <DependentUpon>PantallaHistorialVentas.cs</DependentUpon>
     </Compile>
+    <Compile Include="PantallaInformes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaInformes.Designer.cs">
+      <DependentUpon>PantallaInformes.cs</DependentUpon>
+    </Compile>
     <Compile Include="PantallaRepositor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -129,6 +141,9 @@
     <EmbeddedResource Include="PantallaAgregarProducto.resx">
       <DependentUpon>PantallaAgregarProducto.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PantallaClientes.resx">
+      <DependentUpon>PantallaClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PantallaGestorDeClientes.resx">
       <DependentUpon>PantallaGestorDeClientes.cs</DependentUpon>
     </EmbeddedResource>
@@ -152,6 +167,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PantallaHistorialVentas.resx">
       <DependentUpon>PantallaHistorialVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaInformes.resx">
+      <DependentUpon>PantallaInformes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PantallaRepositor.resx">
       <DependentUpon>PantallaRepositor.cs</DependentUpon>

@@ -14,25 +14,15 @@ namespace DAL
         {
             Conexion conexion = new Conexion();
 
-            return conexion.LeerPorComando("SELECT * FROM [TiendaTP].[dbo].[Ventas]");
+            return conexion.LeerPorComando("SELECT * FROM [TiendaTP].[dbo].[Venta]");
         }
-        private string connectionString = "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=TiendaTP;Data Source=MICAELA\\SQLEXPRESS";
+        //private string connectionString = "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=TiendaTP;Data Source=MICAELA\\SQLEXPRESS";
 
         public DataTable ObtenerVentasConDetalles()
         {
-            using (SqlConnection conexion = new SqlConnection(connectionString))
-            {
-                using (SqlCommand comando = new SqlCommand("ObtenerVentasConDetalles", conexion))
-                {
-                    comando.CommandType = CommandType.StoredProcedure;
+            Conexion conexion = new Conexion();
 
-                    SqlDataAdapter adaptador = new SqlDataAdapter(comando);
-                    DataTable dt = new DataTable();
-                    adaptador.Fill(dt);
-
-                    return dt;
-                }
-            }
+            return conexion.LeerPorStoreProcedure("sp_ObtenerVentaConDetalle");
         }
     }
 }

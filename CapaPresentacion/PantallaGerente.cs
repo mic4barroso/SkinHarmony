@@ -37,5 +37,16 @@ namespace CapaPresentacion
         {
             PlasmarRol();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            PantallaInformes ptallaInforme = new PantallaInformes();
+            ptallaInforme.ShowDialog();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            label3.Text = DateTime.Now.ToString();
+        }
     }
 }

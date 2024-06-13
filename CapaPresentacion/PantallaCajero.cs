@@ -43,5 +43,15 @@ namespace CapaPresentacion
         {
 
         }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+            label2.Text = DateTime.Now.ToString();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
