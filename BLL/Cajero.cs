@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    public class Cajero : Usuario
+    /*public class Cajero : Usuario
     {
         public Cajero(int id, string nombre, string apellido, long dni, string user, string contrasenia, string rol)
         : base(id, nombre, apellido, dni, user, contrasenia, rol) { }
@@ -15,5 +15,5 @@ namespace BLL
         {
             return "cajero";
         }
-    }
+    }*/
 }

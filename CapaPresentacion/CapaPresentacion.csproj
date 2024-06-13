@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PantallaAgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaAgregarProducto.Designer.cs">
+      <DependentUpon>PantallaAgregarProducto.cs</DependentUpon>
+    </Compile>
     <Compile Include="PantallaGestorDeClientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,11 +94,23 @@
     <Compile Include="PantallaGestionProductos.Designer.cs">
       <DependentUpon>PantallaGestionProductos.cs</DependentUpon>
     </Compile>
+    <Compile Include="PantallaHistorialVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaHistorialVentas.Designer.cs">
+      <DependentUpon>PantallaHistorialVentas.cs</DependentUpon>
+    </Compile>
     <Compile Include="PantallaRepositor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="PantallaRepositor.Designer.cs">
       <DependentUpon>PantallaRepositor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaVenta.Designer.cs">
+      <DependentUpon>PantallaVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -108,6 +126,9 @@
     <Compile Include="VerUsuarios.Designer.cs">
       <DependentUpon>VerUsuarios.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="PantallaAgregarProducto.resx">
+      <DependentUpon>PantallaAgregarProducto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PantallaGestorDeClientes.resx">
       <DependentUpon>PantallaGestorDeClientes.cs</DependentUpon>
     </EmbeddedResource>
@@ -129,8 +150,14 @@
     <EmbeddedResource Include="PantallaGestionProductos.resx">
       <DependentUpon>PantallaGestionProductos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PantallaHistorialVentas.resx">
+      <DependentUpon>PantallaHistorialVentas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PantallaRepositor.resx">
       <DependentUpon>PantallaRepositor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaVenta.resx">
+      <DependentUpon>PantallaVenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -165,6 +192,14 @@
     <ProjectReference Include="..\BLL\BLL.csproj">
       <Project>{3832e4b6-dd0b-4370-b8cd-fb21ef52897e}</Project>
       <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{70e5b7aa-01a5-41fa-aad8-e24c83467cd3}</Project>
+      <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

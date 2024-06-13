@@ -41,21 +41,24 @@
             this.grillaProductos.Name = "grillaProductos";
             this.grillaProductos.Size = new System.Drawing.Size(535, 278);
             this.grillaProductos.TabIndex = 0;
+            this.grillaProductos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grillaProductos_CellContentClick);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(440, 20);
+            this.label1.Font = new System.Drawing.Font("Source Code Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(434, 15);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 13);
+            this.label1.Size = new System.Drawing.Size(90, 19);
             this.label1.TabIndex = 1;
             this.label1.Text = "PRODUCTOS";
             // 
             // btnGestionProductos
             // 
-            this.btnGestionProductos.Location = new System.Drawing.Point(21, 46);
+            this.btnGestionProductos.Font = new System.Drawing.Font("Source Code Pro", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGestionProductos.Location = new System.Drawing.Point(24, 151);
             this.btnGestionProductos.Name = "btnGestionProductos";
-            this.btnGestionProductos.Size = new System.Drawing.Size(160, 39);
+            this.btnGestionProductos.Size = new System.Drawing.Size(160, 53);
             this.btnGestionProductos.TabIndex = 2;
             this.btnGestionProductos.Text = "Gestionar Productos";
             this.btnGestionProductos.UseVisualStyleBackColor = true;
@@ -65,6 +68,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.AntiqueWhite;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnGestionProductos);
             this.Controls.Add(this.label1);

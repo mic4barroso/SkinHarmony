@@ -3,64 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\barro\\source\\repos\\tiendacosmeticos\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|c:\\users\\barro\\source\\repos\\tiendacosmeticos\\dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\dal\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\productoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\productoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -75,28 +95,116 @@
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\usuarioentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\usuarioentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\repositorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\repositorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\gerenteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gerenteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\cajeroentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajeroentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\atencionalclienteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\atencionalclienteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\entidades\\administradorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\administradorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,44 +215,8 @@
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,14 +225,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,65 +250,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PantallaGestorDeClientes.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwBsAAAAfAAAA",
+              "DocumentIndex": 4,
+              "Title": "DetalleVentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\DetalleVentaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\DetalleVentaDAL.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\DetalleVentaDAL.cs",
+              "RelativeToolTip": "DAL\\DetalleVentaDAL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:15:49.621Z"
+              "WhenOpened": "2024-06-13T13:15:33.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PantallaGestorDeClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "Title": "PantallaHistorialVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaHistorialVentas.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:12:39.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PantallaCajero.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:26:09.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:00:48.776Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T12:37:06.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
-              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA5wBQAAAA+AAAA",
+              "Title": "PantallaHistorialVentas.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaHistorialVentas.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaHistorialVentas.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:04:44.075Z"
+              "WhenOpened": "2024-06-13T12:50:39.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "VentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\VentaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VentaDAL.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\VentaDAL.cs",
+              "RelativeToolTip": "DAL\\VentaDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:39:49.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PantallaRepositor.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
@@ -255,19 +309,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Repositor.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Repositor.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositor.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Repositor.cs",
+              "RelativeToolTip": "BLL\\Repositor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:41:39.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DetalleVenta.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\DetalleVenta.cs",
               "RelativeDocumentMoniker": "BLL\\DetalleVenta.cs",
               "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\DetalleVenta.cs",
               "RelativeToolTip": "BLL\\DetalleVenta.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAFsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T12:58:51.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Usuario.cs",
+              "RelativeDocumentMoniker": "BLL\\Usuario.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Usuario.cs",
+              "RelativeToolTip": "BLL\\Usuario.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:56:08.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Venta.cs",
+              "RelativeDocumentMoniker": "BLL\\Venta.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Venta.cs",
+              "RelativeToolTip": "BLL\\Venta.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:55:34.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\ProductoDAL.cs",
+              "RelativeToolTip": "DAL\\ProductoDAL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:39:11.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PantallaAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:07:56.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PantallaAdministrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:00:29.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Producto.cs",
+              "RelativeDocumentMoniker": "BLL\\Producto.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Producto.cs",
+              "RelativeToolTip": "BLL\\Producto.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:36:00.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\ProductoEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\ProductoEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\ProductoEntidad.cs",
+              "RelativeToolTip": "Entidades\\ProductoEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:20:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PantallaCajero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:26:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PantallaVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaVenta.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:59:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PantallaVenta.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaVenta.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaVenta.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:09:32.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PantallaAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:51:26.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PantallaGestionProductos.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvxwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:30:17.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "PantallaGestionProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
@@ -278,88 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PantallaAtencionCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:25:40.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PantallaCajero.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:36:18.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PantallaGerente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:03:55.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Venta.cs",
-              "RelativeDocumentMoniker": "BLL\\Venta.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Venta.cs",
-              "RelativeToolTip": "BLL\\Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:55:34.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PantallaAdministrador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:03:41.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PantallaRepositor.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:36:58.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PantallaGestionProductos.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T19:43:16.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "VerProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\VerProductos.cs",
@@ -370,19 +495,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "VerProductos.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\VerProductos.cs",
               "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs",
               "RelativeToolTip": "CapaPresentacion\\VerProductos.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAkwBwAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:02:01.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "VerUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
@@ -393,43 +518,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PantallaAdministrador.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwDYAAAAAAAAA",
+              "DocumentIndex": 23,
+              "Title": "PantallaAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:07:56.615Z"
+              "WhenOpened": "2024-06-12T23:08:35.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Producto.cs",
-              "RelativeDocumentMoniker": "BLL\\Producto.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Producto.cs",
-              "RelativeToolTip": "BLL\\Producto.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAAABEAAAAbAAAA",
+              "DocumentIndex": 25,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Login.cs",
+              "RelativeDocumentMoniker": "BLL\\Login.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Login.cs",
+              "RelativeToolTip": "BLL\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:36:00.845Z"
+              "WhenOpened": "2024-05-30T12:50:35.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\ProductoDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\ProductoDAL.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\ProductoDAL.cs",
-              "RelativeToolTip": "DAL\\ProductoDAL.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 24,
+              "Title": "PantallaAgregarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAxwLoAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:39:11.464Z"
+              "WhenOpened": "2024-06-13T12:15:32.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
+              "Title": "PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:12:39.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\UsuarioEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\UsuarioEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\UsuarioEntidad.cs",
+              "RelativeToolTip": "Entidades\\UsuarioEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:56:57.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RepositorEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\RepositorEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\RepositorEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\RepositorEntidad.cs",
+              "RelativeToolTip": "Entidades\\RepositorEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:39:21.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GerenteEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\GerenteEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\GerenteEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\GerenteEntidad.cs",
+              "RelativeToolTip": "Entidades\\GerenteEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:00:02.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CajeroEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\CajeroEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\CajeroEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\CajeroEntidad.cs",
+              "RelativeToolTip": "Entidades\\CajeroEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:40:30.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AtencionAlClienteEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\AtencionAlClienteEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\AtencionAlClienteEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\AtencionAlClienteEntidad.cs",
+              "RelativeToolTip": "Entidades\\AtencionAlClienteEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:38:12.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdministradorEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\AdministradorEntidad.cs",
+              "RelativeDocumentMoniker": "Entidades\\AdministradorEntidad.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\Entidades\\AdministradorEntidad.cs",
+              "RelativeToolTip": "Entidades\\AdministradorEntidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:36:24.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\ListarUsuarios.cs",
+              "RelativeDocumentMoniker": "BLL\\ListarUsuarios.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\ListarUsuarios.cs",
+              "RelativeToolTip": "BLL\\ListarUsuarios.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC8AAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:20:43.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "UsuarioDAL.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\UsuarioDAL.cs",
               "RelativeDocumentMoniker": "DAL\\UsuarioDAL.cs",
@@ -441,43 +661,196 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Administrador.cs",
-              "RelativeDocumentMoniker": "BLL\\Administrador.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Administrador.cs",
-              "RelativeToolTip": "BLL\\Administrador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "DocumentIndex": 35,
+              "Title": "PantallaGerente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:47:17.538Z"
+              "WhenOpened": "2024-06-01T02:03:55.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ListarUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\ListarUsuarios.cs",
-              "RelativeDocumentMoniker": "BLL\\ListarUsuarios.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\ListarUsuarios.cs",
-              "RelativeToolTip": "BLL\\ListarUsuarios.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAAABkAAAAbAAAA",
+              "DocumentIndex": 36,
+              "Title": "PantallaAtencionCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T23:20:43.686Z"
+              "WhenOpened": "2024-06-03T14:25:40.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\Conexion.cs",
+              "RelativeToolTip": "DAL\\Conexion.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBoAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:51:57.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:00:48.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VerUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:05:10.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PantallaRepositor.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:00:21.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Gerente.cs",
+              "RelativeDocumentMoniker": "BLL\\Gerente.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Gerente.cs",
+              "RelativeToolTip": "BLL\\Gerente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:48:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PantallaGerente.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:11:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PantallaAtencionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:35:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PantallaCajero.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:36:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:04:44.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "Proovedor.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Proovedor.cs",
               "RelativeDocumentMoniker": "BLL\\Proovedor.cs",
               "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Proovedor.cs",
               "RelativeToolTip": "BLL\\Proovedor.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEEAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T12:26:20.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 47,
+              "Title": "Cajero.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Cajero.cs",
+              "RelativeDocumentMoniker": "BLL\\Cajero.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Cajero.cs",
+              "RelativeToolTip": "BLL\\Cajero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:43:07.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Administrador.cs",
+              "RelativeDocumentMoniker": "BLL\\Administrador.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Administrador.cs",
+              "RelativeToolTip": "BLL\\Administrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:47:17.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AtencionAlCliente.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\AtencionAlCliente.cs",
+              "RelativeDocumentMoniker": "BLL\\AtencionAlCliente.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\AtencionAlCliente.cs",
+              "RelativeToolTip": "BLL\\AtencionAlCliente.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:39:10.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PantallaGestorDeClientes.cs",
+              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:15:49.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Cliente.cs",
               "RelativeDocumentMoniker": "BLL\\Cliente.cs",
@@ -489,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 52,
               "Title": "Tienda.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Tienda.cs",
               "RelativeDocumentMoniker": "BLL\\Tienda.cs",
@@ -501,91 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "VerUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
-              "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:05:10.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Repositor.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Repositor.cs",
-              "RelativeDocumentMoniker": "BLL\\Repositor.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Repositor.cs",
-              "RelativeToolTip": "BLL\\Repositor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:41:39.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Usuario.cs",
-              "RelativeDocumentMoniker": "BLL\\Usuario.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Usuario.cs",
-              "RelativeToolTip": "BLL\\Usuario.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAABIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:44:28.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "PantallaAtencionCliente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:35:17.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AtencionAlCliente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\AtencionAlCliente.cs",
-              "RelativeDocumentMoniker": "BLL\\AtencionAlCliente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\AtencionAlCliente.cs",
-              "RelativeToolTip": "BLL\\AtencionAlCliente.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:39:10.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Login.cs",
-              "RelativeDocumentMoniker": "BLL\\Login.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Login.cs",
-              "RelativeToolTip": "BLL\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:50:35.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\Conexion.cs",
-              "RelativeDocumentMoniker": "DAL\\Conexion.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\DAL\\Conexion.cs",
-              "RelativeToolTip": "DAL\\Conexion.cs",
-              "ViewState": "AQIAACIBAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:51:57.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 53,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\App.config",
               "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
@@ -597,31 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Cajero.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Cajero.cs",
-              "RelativeDocumentMoniker": "BLL\\Cajero.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Cajero.cs",
-              "RelativeToolTip": "BLL\\Cajero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:43:07.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "PantallaGerente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:11:32.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 55,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Program.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
@@ -633,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 54,
               "Title": "Inicio.Designer.cs",
               "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.Designer.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.Designer.cs",
@@ -642,18 +907,6 @@
               "ViewState": "AQIAAFUAAAAAAAAAAAAAAF4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T02:11:07.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Gerente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Gerente.cs",
-              "RelativeDocumentMoniker": "BLL\\Gerente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\BLL\\Gerente.cs",
-              "RelativeToolTip": "BLL\\Gerente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:48:30.567Z"
             }
           ]
         }

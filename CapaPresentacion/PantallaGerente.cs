@@ -1,4 +1,5 @@
 ﻿using BLL;
+using Entidades;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,12 +14,18 @@ namespace CapaPresentacion
 {
     public partial class PantallaGerente : Form
     {
-        Usuario _usuario;
-        public PantallaGerente(Usuario usuario)
+        private UsuarioEntidad _usuario;
+
+        public PantallaGerente(UsuarioEntidad usuario)
         {
             InitializeComponent();
             _usuario = usuario;
         }
+
+        /*public PantallaGerente(UsuarioEntidad usuario)
+        {
+            this.usuario = usuario;
+        }*/
 
         private void PlasmarRol()
         {

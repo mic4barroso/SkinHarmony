@@ -1,4 +1,6 @@
 ﻿using BLL;
+using BLL.BLL;
+using Entidades;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -23,8 +25,8 @@ namespace CapaPresentacion
             string username = tboxUser.Text;
             string password = tboxContrasenia.Text;
 
-            BLL.Login login = new BLL.Login();
-            Usuario usuario = login.IniciarSesion(username, password);
+            Login login = new Login();
+            UsuarioEntidad usuario = login.IniciarSesion(username, password);
 
             if (usuario != null)
             {
@@ -66,7 +68,7 @@ namespace CapaPresentacion
         {
         }
 
-        private void MostrarPantallaAdministrador(Usuario usuario)
+        private void MostrarPantallaAdministrador(UsuarioEntidad usuario)
         {
             try
             {
@@ -80,7 +82,7 @@ namespace CapaPresentacion
             }
         }
 
-        private void MostrarPantallaGerente(Usuario usuario)
+        private void MostrarPantallaGerente(UsuarioEntidad usuario)
         {
             try
             {
@@ -94,7 +96,7 @@ namespace CapaPresentacion
             }
         }
 
-        private void MostrarPantallaCajero(Usuario usuario)
+        private void MostrarPantallaCajero(UsuarioEntidad usuario)
         {
             try
             {
@@ -108,7 +110,7 @@ namespace CapaPresentacion
             }
         }
 
-        private void MostrarPantallaAtencionCliente(Usuario usuario)
+        private void MostrarPantallaAtencionCliente(UsuarioEntidad usuario)
         {
             try
             {
@@ -122,7 +124,7 @@ namespace CapaPresentacion
             }
         }
 
-        private void MostrarPantallaRepositor(Usuario usuario)
+        private void MostrarPantallaRepositor(UsuarioEntidad usuario)
         {
             try
             {

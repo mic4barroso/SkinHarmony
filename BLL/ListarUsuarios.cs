@@ -1,4 +1,5 @@
 ﻿using DAL;
+using Entidades;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -10,84 +11,53 @@ namespace BLL
 {
     public class ListarUsuarios
     {
-        public List<Usuario> UsuariosDGV()
-        {
-            List<Usuario> usuarios = new List<Usuario>();
-            UsuarioDAL usuarioDal = new UsuarioDAL();
-            DataTable miTabla = usuarioDal.UsuariosBase();
-
-            foreach (DataRow fila in miTabla.Rows)
+            public List<UsuarioEntidad> UsuariosDGV()
             {
-                Usuario usuario = null;
-                string rol = fila["rol"].ToString();
+                List<UsuarioEntidad> usuarios = new List<UsuarioEntidad>();
+                UsuarioDAL usuarioDal = new UsuarioDAL();
+                DataTable miTabla = usuarioDal.UsuariosBase();
+
+                foreach (DataRow fila in miTabla.Rows)
+                {
+                    UsuarioEntidad usuario = null;
+                    string rol = fila["rol"].ToString();
+
+                    int idUsuario = Convert.ToInt32(fila["id_usuario"]);
+                    string nombre = fila["nombre"].ToString();
+                    string apellido = fila["apellido"].ToString();
+                    long dni = Convert.ToInt64(fila["DNI"]);
+                    string userUsuario = fila["userUsuario"].ToString();
+                    string contrasenia = fila["contrasenia"].ToString();
+                    string estado = fila["Estado"].ToString();
 
                 switch (rol)
-                {
-                    case "gerente":
-                        usuario = new Gerente(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                        break;
-                    case "administrador":
-                        usuario = new Administrador(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                        break;
-                    case "atencion_al_cliente":
-                        usuario = new AtencionAlCliente(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                        break;
-                    case "repositor":
-                        usuario = new Repositor(
-                           (int)fila["id_usuario"],
-                           fila["nombre"].ToString(),
-                           fila["apellido"].ToString(),
-                           (long)fila["DNI"],
-                           fila["userUsuario"].ToString(),
-                           fila["contrasenia"].ToString(),
-                           rol
-                        );
-                        break;
-                    case "cajero":
-                        usuario = new Cajero(
-                           (int)fila["id_usuario"],
-                           fila["nombre"].ToString(),
-                           fila["apellido"].ToString(),
-                           (long)fila["DNI"],
-                           fila["userUsuario"].ToString(),
-                           fila["contrasenia"].ToString(),
-                           rol
-                        );
-                        break;
+                    {
+                        case "gerente":
+                            usuario = new GerenteEntidad(idUsuario, nombre, apellido, dni, userUsuario, contrasenia, rol, estado);
+                            break;
+                        case "administrador":
+                            usuario = new AdministradorEntidad(idUsuario, nombre, apellido, dni, userUsuario, contrasenia, rol, estado);
+                            break;
+                        case "atencion_al_cliente":
+                            usuario = new AtencionAlClienteEntidad(idUsuario, nombre, apellido, dni, userUsuario, contrasenia, rol, estado);
+                            break;
+                        case "repositor":
+                            usuario = new RepositorEntidad(idUsuario, nombre, apellido, dni, userUsuario, contrasenia, rol, estado);
+                            break;
+                        case "cajero":
+                            usuario = new CajeroEntidad(idUsuario, nombre, apellido, dni, userUsuario, contrasenia, rol, estado);
+                            break;
+                    }
+
+                    if (usuario != null)
+                    {
+                        usuarios.Add(usuario);
+                    }
                 }
 
-                if (usuario != null)
-                {
-                    usuarios.Add(usuario);
-                }
+                return usuarios;
             }
-
-            return usuarios;
         }
     }
-}
+
 

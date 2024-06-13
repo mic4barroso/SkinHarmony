@@ -1,4 +1,5 @@
 ﻿using BLL;
+using Entidades;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,12 +15,18 @@ namespace CapaPresentacion
 {
     public partial class PantallaAdministrador : Form
     {
-        Usuario _usuario;
-        public PantallaAdministrador(Usuario usuario)
+        private UsuarioEntidad _usuario;
+
+        public PantallaAdministrador(UsuarioEntidad usuario)
         {
             InitializeComponent();
             _usuario = usuario; 
         }
+
+        /*public PantallaAdministrador(UsuarioEntidad usuario)
+        {
+            this._usuario = usuario;
+        }*/
 
         private void PlasmarRol()
         {
@@ -38,9 +45,11 @@ namespace CapaPresentacion
 
         private void button1_Click(object sender, EventArgs e)
         {
-            VerProductos verProductos = new VerProductos();
+            PantallaGestionProductos ptallaGestionProd = new PantallaGestionProductos();
+            ptallaGestionProd.ShowDialog();
+            /*VerProductos verProductos = new VerProductos();
 
-            verProductos.ShowDialog();
+            verProductos.ShowDialog();*/
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -53,6 +62,17 @@ namespace CapaPresentacion
         private void label2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            label3.Text = DateTime.Now.ToString();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            PantallaHistorialVentas ptallaHistorialVentas = new PantallaHistorialVentas();
+            ptallaHistorialVentas.ShowDialog();
         }
     }
 }

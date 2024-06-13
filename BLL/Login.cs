@@ -5,108 +5,102 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entidades;
 
 namespace BLL
 {
-    public class Login
+    using DAL;
+    using System;
+    using System.Collections.Generic;
+    using System.Data;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+    using Entidades;
+
+    namespace BLL
     {
-        public Usuario IniciarSesion(string usuario, string clave)
+        public class Login
         {
-            Conexion objConexion = new Conexion();
-            DataTable dt = objConexion.LeerPorComando("select [nombre], [apellido], [DNI], [userUsuario], [rol], [contrasenia], [id_usuario] from [TiendaTP].[dbo].[Usuarios]");
-
-            foreach (DataRow fila in dt.Rows)
+            public UsuarioEntidad IniciarSesion(string usuario, string clave)
             {
-                if (fila["userUsuario"].ToString() == usuario && fila["contrasenia"].ToString() == clave)
-                {
-                    string rol = fila["rol"].ToString();
-                    Usuario user = null;
+                Conexion objConexion = new Conexion();
+                DataTable dt = objConexion.LeerPorComando("select [nombre], [apellido], [DNI], [userUsuario], [rol], [contrasenia], [id_usuario], [Estado] from [TiendaTP].[dbo].[Usuarios]");
 
-                    if (rol == "gerente")
+                foreach (DataRow fila in dt.Rows)
+                {
+                    if (fila["userUsuario"].ToString() == usuario && fila["contrasenia"].ToString() == clave)
                     {
-                        user = new Gerente(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                    }
-                    else if (rol == "administrador")
-                    {
-                        user = new Administrador(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                    }
-                    else if(rol == "atencion_al_cliente")
-                    {
-                            user = new Gerente(
+                        string rol = fila["rol"].ToString();
+                        UsuarioEntidad user = null;
+
+                        if (rol == "gerente")
+                        {
+                            user = new GerenteEntidad(
                                 (int)fila["id_usuario"],
                                 fila["nombre"].ToString(),
                                 fila["apellido"].ToString(),
                                 (long)fila["DNI"],
                                 fila["userUsuario"].ToString(),
                                 fila["contrasenia"].ToString(),
-                                rol
-                            );
+                                rol,
+                                fila["Estado"].ToString()) ;
+                        }
+                        else if (rol == "administrador")
+                        {
+                            user = new AdministradorEntidad(
+                                (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
+                        }
+                        else if (rol == "atencion_al_cliente")
+                        {
+                            user = new AtencionAlClienteEntidad(
+                                (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
+                        }
+                        else if (rol == "cajero")
+                        {
+                            user = new CajeroEntidad(
+                                (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
+                        }
+                        else if (rol == "repositor")
+                        {
+                            user = new RepositorEntidad(
+                                (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
+                        }
+                        return user;
                     }
-                    else if (rol == "cajero")
-                    {
-                        user = new Gerente(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                    }
-                    else if (rol == "repositor")
-                    {
-                        user = new Gerente(
-                            (int)fila["id_usuario"],
-                            fila["nombre"].ToString(),
-                            fila["apellido"].ToString(),
-                            (long)fila["DNI"],
-                            fila["userUsuario"].ToString(),
-                            fila["contrasenia"].ToString(),
-                            rol
-                        );
-                    }
-                    return user;
                 }
-            }
 
-            return null; 
+                return null;
+            }
         }
-        /*private string _usuario;
-        private string _clave;
-        public bool IniciarSesion(string usuario, string clave)
-        {
-
-            Conexion objConexion = new Conexion();
-
-            DataTable dt = objConexion.LeerPorComando("select [nombre], [apellido], [DNI], [userUsuario], [rol], [contrasenia], [id_usuario] from [TiendaTP].[dbo].[Usuarios]");
-
-            foreach (DataRow fila in dt.Rows)
-            {
-                if (fila[3].ToString() == usuario && fila["contrasenia"].ToString() == clave)
-                {
-                    return true;
-                }
-
-            }
-            return false;
-        }*/
     }
 }
 

@@ -19,8 +19,16 @@ namespace CapaPresentacion
 
         private void btnAgregarProductos_Click(object sender, EventArgs e)
         {
-            // agregarProducto
+            PantallaAgregarProducto pantallaAgregarProd = new PantallaAgregarProducto();
+            pantallaAgregarProd.ShowDialog();
 
+        }
+
+        private void PantallaGestionProductos_Load(object sender, EventArgs e)
+        {
+            BLL.Producto producto = new BLL.Producto();
+
+            grillaProductos.DataSource = producto.ListarProductosBD();
         }
     }
 }

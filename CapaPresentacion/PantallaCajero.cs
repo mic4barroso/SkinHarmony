@@ -1,4 +1,5 @@
 ﻿using BLL;
+using Entidades;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,12 +15,18 @@ namespace CapaPresentacion
 {
     public partial class PantallaCajero : Form
     {
-        Usuario _usuario;
-        public PantallaCajero(Usuario usuario)
+        private UsuarioEntidad _usuario;
+
+        public PantallaCajero(UsuarioEntidad usuario)
         {
             InitializeComponent();
             _usuario = usuario;
         }
+
+        /*public PantallaCajero(UsuarioEntidad usuario)
+        {
+            this._usuario = usuario;
+        }*/
 
         private void PlasmarRol()
         {

@@ -61,10 +61,10 @@ namespace BLL
             Productos.Add(producto);
         }
         //eliminarProducto
-		public bool EliminarProductos()
+		/*public bool EliminarProductos()
 		{
 
-		}
+		}*/
         //obtenerProducto
         public List<Producto> ObtenerProductos()
 		{

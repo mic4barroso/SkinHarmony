@@ -1,4 +1,5 @@
 ﻿using BLL;
+using Entidades;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,7 +22,7 @@ namespace CapaPresentacion
         private void VerUsuarios_Load(object sender, EventArgs e)
         {
             BLL.ListarUsuarios usuariosDGV = new BLL.ListarUsuarios();
-            List<Usuario> usuarios = usuariosDGV.UsuariosDGV();
+            List<UsuarioEntidad> usuarios = usuariosDGV.UsuariosDGV();
 
             grillaUsuarios.DataSource = usuarios.Select(u=> new
             {

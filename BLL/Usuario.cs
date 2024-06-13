@@ -5,78 +5,15 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entidades;
 
 namespace BLL
 {
-    public abstract class Usuario
-        //tiene sublase gerente y administrador que heredan de usuario
+    public class Usuario
     {
-        private int _id;
-        private string _nombre;
-        private string _apellido;
-        private long _dni;
-        private string _rol;
-        private string _user;
-
-        public string User
+        public List<UsuarioEntidad> ListarUsuariosBase()
         {
-            get { return _user; }
-            set { _user = value; }
-        }
-
-        private string _contrasenia;
-
-        public string Contrasenia
-        {
-            get { return _contrasenia; }
-            set { _contrasenia = value; }
-        }
-
-        public int ID
-        {
-            get { return _id; }
-            set { _id = value; }
-        }
-        public string Nombre
-        {
-            get { return _nombre; }
-            set { _nombre = value; }
-        }
-
-        public string Apellido
-        {
-            get { return _apellido; }
-            set { _apellido = value; }
-        }
-        public long DNI
-        {
-            get { return _dni; }
-            set { _dni = value; }
-        }
-
-        public string Rol
-        {
-            get { return _rol; }
-            set { _rol = value; }
-        }
-        public Usuario()
-        {
-        }
-
-        public Usuario(int Id, string nombre, string apellido, long dni, string user, string contrasenia, string rol)
-        {
-            this._id = Id;
-            this._nombre = nombre;
-            this._apellido = apellido;
-            this._dni = dni;
-            this._user = user;
-            this._contrasenia = contrasenia;
-            this._rol = rol;
-        }
-
-        public List<Usuario> ListarUsuariosBase()
-        {
-            List<Usuario> usuarios = new List<Usuario>();
+            List<UsuarioEntidad> usuarios = new List<UsuarioEntidad>();
             DAL.UsuarioDAL usuarioDal = new DAL.UsuarioDAL();
             //Conexion conexion = new Conexion();
 
@@ -84,68 +21,68 @@ namespace BLL
 
             foreach (DataRow fila in miTabla.Rows)
             {
-                Usuario usuario = null;
+                UsuarioEntidad usuario = null;
                 string rol = fila["Rol"].ToString();
 
                 if (rol == "Gerente")
                 {
-                    usuario = new Gerente(
-                        (int)fila["ID"],
-                        fila["Nombre"].ToString(),
-                        fila["Apellido"].ToString(),
-                        (long)fila["DNI"],
-                        fila["User"].ToString(),
-                        fila["Contrasenia"].ToString(),
-                        rol
-                    );
+                    usuario = new GerenteEntidad(
+                        (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
                 }
                 else if (rol == "Administrador")
                 {
-                    usuario = new Administrador(
-                        (int)fila["ID"],
-                        fila["Nombre"].ToString(),
-                        fila["Apellido"].ToString(),
-                        (long)fila["DNI"],
-                        fila["User"].ToString(),
-                        fila["Contrasenia"].ToString(),
-                        rol
-                    );
+                    usuario = new AdministradorEntidad(
+                        (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
                 }
                 else if (rol == "atencion_al_cliente")
                 {
-                    usuario = new AtencionAlCliente(
-                        (int)fila["ID"],
-                        fila["Nombre"].ToString(),
-                        fila["Apellido"].ToString(),
-                        (long)fila["DNI"],
-                        fila["User"].ToString(),
-                        fila["Contrasenia"].ToString(),
-                        rol
-                        );
+                    usuario = new AtencionAlClienteEntidad(
+                        (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
                 }
                 else if (rol == "repositor")
                 {
-                    usuario = new Repositor(
-                       (int)fila["ID"],
-                       fila["Nombre"].ToString(),
-                       fila["Apellido"].ToString(),
-                       (long)fila["DNI"],
-                       fila["User"].ToString(),
-                       fila["Contrasenia"].ToString(),
-                       rol
-                       );
+                    usuario = new RepositorEntidad(
+                       (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
                 }
                 else if (rol == "cajero")
                 {
-                    usuario = new Repositor(
-                       (int)fila["ID"],
-                       fila["Nombre"].ToString(),
-                       fila["Apellido"].ToString(),
-                       (long)fila["DNI"],
-                       fila["User"].ToString(),
-                       fila["Contrasenia"].ToString(),
-                       rol
-                       );
+                    usuario = new CajeroEntidad(
+                       (int)fila["id_usuario"],
+                                fila["nombre"].ToString(),
+                                fila["apellido"].ToString(),
+                                (long)fila["DNI"],
+                                fila["userUsuario"].ToString(),
+                                fila["contrasenia"].ToString(),
+                                rol,
+                                fila["Estado"].ToString());
                 }
                 if (usuario != null)
                 {
@@ -157,8 +94,9 @@ namespace BLL
         }
 
 
-        public abstract string ObtenerRol(string user, string password);
+        //public abstract string ObtenerRol(string user, string password);
 
     }
 }
+
 

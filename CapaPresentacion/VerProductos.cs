@@ -19,9 +19,9 @@ namespace CapaPresentacion
 
         private void VerProductos_Load(object sender, EventArgs e)
         {
-            BLL.Producto productos = new BLL.Producto();
+            BLL.Producto producto = new BLL.Producto();
 
-            grillaProductos.DataSource = productos.ListarProductosBD();
+            grillaProductos.DataSource = producto.ListarProductosBD();
         }
 
         private void btnGestionProductos_Click(object sender, EventArgs e)
@@ -29,6 +29,11 @@ namespace CapaPresentacion
             PantallaGestionProductos pantallaGestionProductos = new PantallaGestionProductos();
 
             pantallaGestionProductos.ShowDialog();
+        }
+
+        private void grillaProductos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
