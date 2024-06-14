@@ -1,237 +1,241 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\",
+  "WorkspaceRootPath": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0CD2BC6-457D-4C02-A550-3EACA6514A31}|Pruebas Unitarias\\Pruebas Unitarias.csproj|c:\\users\\ana\\desktop\\skinharmony\\pruebas unitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CD2BC6-457D-4C02-A550-3EACA6514A31}|Pruebas Unitarias\\Pruebas Unitarias.csproj|solutionrelative:pruebas unitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|c:\\users\\barro\\onedrive\\escritorio\\tiendacosmeticos\\dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallainformes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallainformes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\dal\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\productoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\productoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallainformes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallainformes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallaagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\usuarioentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\usuarioentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\repositorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\repositorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\gerenteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gerenteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\cajeroentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajeroentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\atencionalclienteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\atencionalclienteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\entidades\\administradorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\administradorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\ana\\desktop\\skinharmony\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallacajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallarepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallahistorialventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\dal\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\repositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\productoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\productoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\usuarioentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\usuarioentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\repositorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\repositorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\gerenteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gerenteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\cajeroentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajeroentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\atencionalclienteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\atencionalclienteentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\entidades\\administradorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B7AA-01A5-41FA-AAD8-E24C83467CD3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\administradorentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\listarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA1A5-E14F-4CE9-A84B-1B3214568B02}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\verusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\atencionalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallagestordeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\bll\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\bll\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3832E4B6-DD0B-4370-B8CD-FB21EF52897E}|BLL\\BLL.csproj|solutionrelative:bll\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -242,7 +246,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -258,71 +262,205 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PantallaVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaVenta.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Pruebas Unitarias\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Pruebas Unitarias\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Pruebas Unitarias\\UnitTest1.cs",
+              "RelativeToolTip": "Pruebas Unitarias\\UnitTest1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:59:26.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PantallaAtencionCliente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:35:17.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VentaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\VentaDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\VentaDAL.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\VentaDAL.cs",
-              "RelativeToolTip": "DAL\\VentaDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:39:49.435Z",
+              "WhenOpened": "2024-06-14T19:17:43.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Venta.cs",
-              "RelativeDocumentMoniker": "BLL\\Venta.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Venta.cs",
-              "RelativeToolTip": "BLL\\Venta.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFsAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "PantallaVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaVenta.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:55:34.082Z"
+              "WhenOpened": "2024-06-13T01:59:26.194Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PantallaRepositor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaRepositor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaRepositor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:24:52.391Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "BLL\\DetalleVenta.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\DetalleVenta.cs",
-              "RelativeToolTip": "BLL\\DetalleVenta.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAFsAAAAsAAAA",
+              "Title": "PantallaInformes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaInformes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaInformes.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaInformes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaInformes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:58:51.754Z"
+              "WhenOpened": "2024-06-13T16:50:07.686Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\ProductoDAL.cs",
+              "RelativeToolTip": "DAL\\ProductoDAL.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:39:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VerProductos.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\VerProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:00:44.285Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PantallaHistorialVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaHistorialVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaHistorialVentas.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:37:06.88Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:04:17.973Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PantallaGestionProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestionProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestionProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:35:09.025Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:00:48.776Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PantallaAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:51:26.684Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PantallaCajero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaCajero.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:26:09.18Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PantallaClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaClientes.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:15:32.413Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PantallaGerente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGerente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:03:55.845Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:12:39.677Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PantallaAtencionCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAtencionCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:25:40.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "PantallaAdministrador.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAdministrador.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T23:00:29.388Z",
@@ -330,159 +468,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PantallaCajero.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAADUAAAAAAAAA",
+              "DocumentIndex": 19,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "BLL\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\DetalleVenta.cs",
+              "RelativeToolTip": "BLL\\DetalleVenta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAFsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:36:18.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PantallaCajero.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:26:09.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PantallaAtencionCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:25:40.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PantallaRepositor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:24:52.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PantallaRepositor.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaRepositor.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAQwDIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:00:21.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PantallaGerente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:03:55.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PantallaClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaClientes.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaClientes.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaClientes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:15:32.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PantallaGestionProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:35:09.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PantallaGerente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGerente.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwC8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:11:32.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PantallaHistorialVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaHistorialVentas.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:37:06.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PantallaInformes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaInformes.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaInformes.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaInformes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaInformes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:50:07.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PantallaGestorDeClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:12:39.677Z"
+              "WhenOpened": "2024-06-06T12:58:51.754Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "PantallaAdministrador.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAdministrador.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAqwEQAAAAMAAAA",
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Venta.cs",
+              "RelativeDocumentMoniker": "BLL\\Venta.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Venta.cs",
+              "RelativeToolTip": "BLL\\Venta.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:07:56.615Z",
+              "WhenOpened": "2024-06-06T12:55:34.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\VentaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VentaDAL.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\VentaDAL.cs",
+              "RelativeToolTip": "DAL\\VentaDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:39:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PantallaAtencionCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAtencionCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAtencionCliente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAtencionCliente.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:35:17.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "PantallaCajero.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaCajero.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaCajero.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaCajero.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:36:18.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PantallaRepositor.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaRepositor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaRepositor.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaRepositor.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:00:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PantallaGerente.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGerente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGerente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGerente.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:11:32.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PantallaAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAdministrador.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAdministrador.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAdministrador.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:07:56.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Repositor.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Repositor.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Repositor.cs",
               "RelativeDocumentMoniker": "BLL\\Repositor.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Repositor.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Repositor.cs",
               "RelativeToolTip": "BLL\\Repositor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -490,23 +580,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "PantallaHistorialVentas.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaHistorialVentas.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaHistorialVentas.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaHistorialVentas.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaHistorialVentas.cs",
               "RelativeToolTip": "CapaPresentacion\\PantallaHistorialVentas.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:50:39.096Z"
+              "WhenOpened": "2024-06-13T12:50:39.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "DetalleVentaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\DetalleVentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\DetalleVentaDAL.cs",
               "RelativeDocumentMoniker": "DAL\\DetalleVentaDAL.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\DetalleVentaDAL.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\DetalleVentaDAL.cs",
               "RelativeToolTip": "DAL\\DetalleVentaDAL.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,11 +605,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Usuario.cs",
               "RelativeDocumentMoniker": "BLL\\Usuario.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Usuario.cs",
               "RelativeToolTip": "BLL\\Usuario.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAFQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -526,23 +617,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\ProductoDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\ProductoDAL.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\ProductoDAL.cs",
-              "RelativeToolTip": "DAL\\ProductoDAL.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:39:11.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Producto.cs",
               "RelativeDocumentMoniker": "BLL\\Producto.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Producto.cs",
               "RelativeToolTip": "BLL\\Producto.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAiwCAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -550,11 +629,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ProductoEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\ProductoEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\ProductoEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\ProductoEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\ProductoEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\ProductoEntidad.cs",
               "RelativeToolTip": "Entidades\\ProductoEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,92 +641,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "PantallaVenta.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaVenta.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaVenta.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaVenta.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaVenta.cs",
               "RelativeToolTip": "CapaPresentacion\\PantallaVenta.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAUwB4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:09:32.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "PantallaAgregarProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T21:51:26.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PantallaGestionProductos.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestionProductos.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADgvxwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:30:17.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "VerProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\VerProductos.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:00:44.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "VerProductos.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\VerProductos.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\VerProductos.cs",
-              "RelativeToolTip": "CapaPresentacion\\VerProductos.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAArwBAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:02:01.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "VerUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:04:17.973Z"
+              "WhenOpened": "2024-06-13T12:09:32.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "PantallaAgregarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.cs",
-              "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Title": "PantallaGestionProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestionProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestionProductos.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestionProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvxwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:08:35.821Z"
+              "WhenOpened": "2024-06-13T01:30:17.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VerProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VerProductos.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\VerProductos.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:02:01.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "PantallaAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:08:35.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Login.cs",
               "RelativeDocumentMoniker": "BLL\\Login.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Login.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Login.cs",
               "RelativeToolTip": "BLL\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -655,23 +705,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "PantallaAgregarProducto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
               "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAIAxwLoAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:15:32.462Z"
+              "WhenOpened": "2024-06-13T12:15:32.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "UsuarioEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\UsuarioEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\UsuarioEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\UsuarioEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\UsuarioEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\UsuarioEntidad.cs",
               "RelativeToolTip": "Entidades\\UsuarioEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,11 +730,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "RepositorEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\RepositorEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\RepositorEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\RepositorEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\RepositorEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\RepositorEntidad.cs",
               "RelativeToolTip": "Entidades\\RepositorEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -691,11 +742,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "GerenteEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\GerenteEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\GerenteEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\GerenteEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\GerenteEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\GerenteEntidad.cs",
               "RelativeToolTip": "Entidades\\GerenteEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -703,11 +754,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "CajeroEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\CajeroEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\CajeroEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\CajeroEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\CajeroEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\CajeroEntidad.cs",
               "RelativeToolTip": "Entidades\\CajeroEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -715,11 +766,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "AtencionAlClienteEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\AtencionAlClienteEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\AtencionAlClienteEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\AtencionAlClienteEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\AtencionAlClienteEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\AtencionAlClienteEntidad.cs",
               "RelativeToolTip": "Entidades\\AtencionAlClienteEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -727,11 +778,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "AdministradorEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\AdministradorEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\AdministradorEntidad.cs",
               "RelativeDocumentMoniker": "Entidades\\AdministradorEntidad.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\Entidades\\AdministradorEntidad.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Entidades\\AdministradorEntidad.cs",
               "RelativeToolTip": "Entidades\\AdministradorEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -739,11 +790,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "ListarUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\ListarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\ListarUsuarios.cs",
               "RelativeDocumentMoniker": "BLL\\ListarUsuarios.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\ListarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\ListarUsuarios.cs",
               "RelativeToolTip": "BLL\\ListarUsuarios.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAAAC8AAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -751,11 +802,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "UsuarioDAL.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\UsuarioDAL.cs",
               "RelativeDocumentMoniker": "DAL\\UsuarioDAL.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\UsuarioDAL.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\UsuarioDAL.cs",
               "RelativeToolTip": "DAL\\UsuarioDAL.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -763,11 +814,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\Conexion.cs",
               "RelativeDocumentMoniker": "DAL\\Conexion.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\DAL\\Conexion.cs",
               "RelativeToolTip": "DAL\\Conexion.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwBoAAACRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -775,34 +826,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\barro\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "DocumentIndex": 47,
+              "Title": "VerUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:00:48.776Z"
+              "WhenOpened": "2024-06-05T22:05:10.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "VerUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\VerUsuarios.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\VerUsuarios.cs",
-              "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:05:10.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
               "Title": "Gerente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Gerente.cs",
               "RelativeDocumentMoniker": "BLL\\Gerente.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Gerente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Gerente.cs",
               "RelativeToolTip": "BLL\\Gerente.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -810,23 +851,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.cs",
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAAABgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:04:44.075Z"
+              "WhenOpened": "2024-06-01T02:04:44.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Proovedor.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Proovedor.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Proovedor.cs",
               "RelativeDocumentMoniker": "BLL\\Proovedor.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Proovedor.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Proovedor.cs",
               "RelativeToolTip": "BLL\\Proovedor.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAkwEIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -834,11 +876,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Cajero.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Cajero.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Cajero.cs",
               "RelativeDocumentMoniker": "BLL\\Cajero.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Cajero.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Cajero.cs",
               "RelativeToolTip": "BLL\\Cajero.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -846,11 +888,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Administrador.cs",
               "RelativeDocumentMoniker": "BLL\\Administrador.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Administrador.cs",
               "RelativeToolTip": "BLL\\Administrador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -858,11 +900,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "AtencionAlCliente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\AtencionAlCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\AtencionAlCliente.cs",
               "RelativeDocumentMoniker": "BLL\\AtencionAlCliente.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\AtencionAlCliente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\AtencionAlCliente.cs",
               "RelativeToolTip": "BLL\\AtencionAlCliente.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -870,23 +912,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "PantallaGestorDeClientes.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestorDeClientes.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\PantallaGestorDeClientes.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\PantallaGestorDeClientes.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestorDeClientes.cs",
               "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAYwBsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:15:49.621Z"
+              "WhenOpened": "2024-06-11T21:15:49.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Cliente.cs",
               "RelativeDocumentMoniker": "BLL\\Cliente.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Cliente.cs",
               "RelativeToolTip": "BLL\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -894,11 +937,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Tienda.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Tienda.cs",
               "RelativeDocumentMoniker": "BLL\\Tienda.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\BLL\\Tienda.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\BLL\\Tienda.cs",
               "RelativeToolTip": "BLL\\Tienda.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -906,23 +949,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\App.config",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\App.config",
               "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\App.config",
               "RelativeToolTip": "CapaPresentacion\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-03T14:47:03.433Z"
+              "WhenOpened": "2024-06-03T14:47:03.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Program.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Program.cs",
               "RelativeToolTip": "CapaPresentacion\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAgwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -930,15 +974,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Inicio.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.Designer.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.Designer.cs",
-              "ToolTip": "C:\\Users\\barro\\OneDrive\\Escritorio\\TiendaCosmeticos\\CapaPresentacion\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.Designer.cs",
               "RelativeToolTip": "CapaPresentacion\\Inicio.Designer.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAAAF4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:11:07.784Z"
+              "WhenOpened": "2024-06-01T02:11:07.784Z",
+              "EditorCaption": ""
             }
           ]
         }

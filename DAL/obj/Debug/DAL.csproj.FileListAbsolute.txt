@@ -7,3 +7,12 @@ C:\Users\barro\source\repos\TiendaCosmeticos\DAL\obj\Debug\DAL.csproj.CoreCompil
 C:\Users\barro\source\repos\TiendaCosmeticos\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\barro\source\repos\TiendaCosmeticos\DAL\obj\Debug\DAL.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\DAL\obj\Debug\DAL.pdb
+C:\Users\Ana\Desktop\SkinHarmony\DAL\bin\Debug\DAL.dll
+C:\Users\Ana\Desktop\SkinHarmony\DAL\bin\Debug\DAL.pdb
+C:\Users\Ana\Desktop\SkinHarmony\DAL\bin\Debug\Entidades.dll
+C:\Users\Ana\Desktop\SkinHarmony\DAL\bin\Debug\Entidades.pdb
+C:\Users\Ana\Desktop\SkinHarmony\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\SkinHarmony\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\SkinHarmony\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Ana\Desktop\SkinHarmony\DAL\obj\Debug\DAL.dll
+C:\Users\Ana\Desktop\SkinHarmony\DAL\obj\Debug\DAL.pdb

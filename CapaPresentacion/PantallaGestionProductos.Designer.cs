@@ -113,7 +113,7 @@
             this.Controls.Add(this.btnEliminarProductos);
             this.Controls.Add(this.btnAgregarProductos);
             this.Name = "PantallaGestionProductos";
-            this.Text = "PantallaGestionProductos";
+            this.Text = "a";
             this.Load += new System.EventHandler(this.PantallaGestionProductos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grillaProductos)).EndInit();
             this.ResumeLayout(false);
