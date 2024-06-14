@@ -29,14 +29,14 @@ namespace CapaPresentacion
             DataTable dtVentasConDetalles = ventaDAL.ObtenerVentasConDetalles();
             dgvVentas.DataSource = dtVentasConDetalles;
 
-            // Opcional: Ocultar columnas no deseadas
+            /*
             foreach (DataGridViewColumn column in dgvVentas.Columns)
             {
                 if (column.Name != "FechaVenta" && column.Name != "NombreProducto")
                 {
                     column.Visible = false;
                 }
-            }
+            }*/
         }
     }
 }

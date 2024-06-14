@@ -80,5 +80,6 @@ namespace Entidades
             this._rol = rol;
             this._estado = elEstado;
         }
+
     }
 }

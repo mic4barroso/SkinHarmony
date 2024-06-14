@@ -1,6 +1,11 @@
 C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\bin\Debug\Entidades.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\bin\Debug\itextsharp.dll
+C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\bin\Debug\itextsharp.xml
 C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
 C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\obj\Debug\Entidades.csproj.Up2Date
 C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\obj\Debug\Entidades.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\Entidades\obj\Debug\Entidades.pdb

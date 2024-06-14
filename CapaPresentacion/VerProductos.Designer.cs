@@ -30,14 +30,13 @@
         {
             this.grillaProductos = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnGestionProductos = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.grillaProductos)).BeginInit();
             this.SuspendLayout();
             // 
             // grillaProductos
             // 
             this.grillaProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.grillaProductos.Location = new System.Drawing.Point(206, 46);
+            this.grillaProductos.Location = new System.Drawing.Point(127, 74);
             this.grillaProductos.Name = "grillaProductos";
             this.grillaProductos.Size = new System.Drawing.Size(535, 278);
             this.grillaProductos.TabIndex = 0;
@@ -47,22 +46,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Source Code Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(434, 15);
+            this.label1.Location = new System.Drawing.Point(351, 31);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(90, 19);
             this.label1.TabIndex = 1;
             this.label1.Text = "PRODUCTOS";
-            // 
-            // btnGestionProductos
-            // 
-            this.btnGestionProductos.Font = new System.Drawing.Font("Source Code Pro", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGestionProductos.Location = new System.Drawing.Point(24, 151);
-            this.btnGestionProductos.Name = "btnGestionProductos";
-            this.btnGestionProductos.Size = new System.Drawing.Size(160, 53);
-            this.btnGestionProductos.TabIndex = 2;
-            this.btnGestionProductos.Text = "Gestionar Productos";
-            this.btnGestionProductos.UseVisualStyleBackColor = true;
-            this.btnGestionProductos.Click += new System.EventHandler(this.btnGestionProductos_Click);
             // 
             // VerProductos
             // 
@@ -70,7 +58,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.AntiqueWhite;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnGestionProductos);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.grillaProductos);
             this.Name = "VerProductos";
@@ -86,6 +73,5 @@
 
         private System.Windows.Forms.DataGridView grillaProductos;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnGestionProductos;
     }
 }

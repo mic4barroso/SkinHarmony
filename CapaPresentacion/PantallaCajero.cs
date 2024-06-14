@@ -53,5 +53,31 @@ namespace CapaPresentacion
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var confirmar = MessageBox.Show("¿Estas seguro de cerrar sesion?",
+                                     "Salir",
+                                     MessageBoxButtons.YesNo);
+            if (confirmar == DialogResult.Yes)
+            {
+                this.Close();
+
+                Inicio pantallaInicio = new Inicio();
+                pantallaInicio.Show();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            VerProductos ptallaProd = new VerProductos();
+            ptallaProd.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            PantallaInformes ptallaInformes = new PantallaInformes();
+            ptallaInformes.Show();
+        }
     }
 }

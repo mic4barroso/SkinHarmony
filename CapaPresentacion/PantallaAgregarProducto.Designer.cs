@@ -62,6 +62,7 @@
             this.tboxNombre.Name = "tboxNombre";
             this.tboxNombre.Size = new System.Drawing.Size(121, 20);
             this.tboxNombre.TabIndex = 1;
+            this.tboxNombre.TextChanged += new System.EventHandler(this.tboxNombre_TextChanged);
             // 
             // label2
             // 

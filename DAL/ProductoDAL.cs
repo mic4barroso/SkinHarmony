@@ -11,7 +11,8 @@ namespace DAL
 {
     public class ProductoDAL
     {
-        private readonly string _connectionString = "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=TiendaTP;Data Source=MICAELA\\SQLEXPRESS";
+        private Conexion conexion = new Conexion();
+
         public DataTable ProductosBase()
         {
             Conexion conexion = new Conexion();
@@ -19,25 +20,25 @@ namespace DAL
             return conexion.LeerPorComando("SELECT * FROM [TiendaTP].[dbo].[Productos]");
         }
 
-        public bool AgregarProducto(ProductoEntidad producto)
+        public bool InsertarProducto(ProductoEntidad producto)
         {
-            using (SqlConnection conexion = new SqlConnection(_connectionString))
-            {
-                using (SqlCommand comando = new SqlCommand("INSERT INTO Productos (Nombre, Categoria, Precio, StockCantidad, Descripcion, Color, Marca) VALUES (@Nombre, @Categoria, @Precio, @StockCantidad, @Descripcion, @Color, @Marca)", conexion))
-                {
-                    comando.Parameters.AddWithValue("@Nombre", producto.Nombre);
-                    comando.Parameters.AddWithValue("@Categoria", producto.Categoria);
-                    comando.Parameters.AddWithValue("@Precio", producto.Precio);
-                    comando.Parameters.AddWithValue("@StockCantidad", producto.Stock);
-                    comando.Parameters.AddWithValue("@Descripcion", producto.Descripcion);
-                    comando.Parameters.AddWithValue("@Color", producto.Color);
-                    comando.Parameters.AddWithValue("@Marca", producto.Marca);
+            string comandoSQL = $"INSERT INTO [TiendaTP].[dbo].[Productos] (Nombre, Categoria, Precio, StockCantidad, Descripcion, Color, Marca) " +
+                                $"VALUES ('{producto.Nombre}', '{producto.Categoria}', {producto.Precio}, {producto.Stock}, '{producto.Descripcion}', '{producto.Color}', '{producto.Marca}')";
+            int filasAfectadas = conexion.EscribirPorComando(comandoSQL);
+            return filasAfectadas > 0;
+        }
 
-                    conexion.Open();
-                    int filasAfectadas = comando.ExecuteNonQuery();
-                    return filasAfectadas > 0;
-                }
-            }
+        public DataTable ObtenerProductoPorId(int idProducto)
+        {
+            string comandoSQL = $"SELECT * FROM [TiendaTP].[dbo].[Productos] WHERE IdProducto = {idProducto}";
+            return conexion.LeerPorComando(comandoSQL);
+        }
+
+        public bool EliminarProducto(int idProducto)
+        {
+            string comandoSQL = $"DELETE FROM [TiendaTP].[dbo].[Productos] WHERE IdProducto = {idProducto}";
+            int filasAfectadas = conexion.EscribirPorComando(comandoSQL);
+            return filasAfectadas > 0;
         }
 
     }
