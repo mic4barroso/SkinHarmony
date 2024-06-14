@@ -40,9 +40,6 @@ C:\Users\barro\source\repos\TiendaCosmeticos\CapaPresentacion\obj\Debug\CapaPres
 <<<<<<< HEAD
 C:\Users\barro\source\repos\TiendaCosmeticos\CapaPresentacion\obj\Debug\CapaPresentacion.PantallaVerProveedores.resources
 =======
-C:\Users\barro\source\repos\TiendaCosmeticos\CapaPresentacion\obj\Debug\CapaPresentacion.PantallaHistorialVentas.resources
-C:\Users\barro\source\repos\TiendaCosmeticos\CapaPresentacion\obj\Debug\CapaPresentacion.PantallaClientes.resources
-C:\Users\barro\source\repos\TiendaCosmeticos\CapaPresentacion\obj\Debug\CapaPresentacion.PantallaInformes.resources
 C:\Users\barro\OneDrive\Escritorio\TiendaCosmeticos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
 C:\Users\barro\OneDrive\Escritorio\TiendaCosmeticos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
 C:\Users\barro\OneDrive\Escritorio\TiendaCosmeticos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb

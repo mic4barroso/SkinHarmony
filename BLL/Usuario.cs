@@ -24,7 +24,7 @@ namespace BLL
                 UsuarioEntidad usuario = null;
                 string rol = fila["Rol"].ToString();
 
-                if (rol == "Gerente")
+                if (rol == "gerente")
                 {
                     usuario = new GerenteEntidad(
                         (int)fila["id_usuario"],
@@ -36,7 +36,7 @@ namespace BLL
                                 rol,
                                 fila["Estado"].ToString());
                 }
-                else if (rol == "Administrador")
+                else if (rol == "administrador")
                 {
                     usuario = new AdministradorEntidad(
                         (int)fila["id_usuario"],

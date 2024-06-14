@@ -1,5 +1,7 @@
-﻿using System;
+﻿using DAL;
+using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -48,5 +50,29 @@ namespace BLL
 			_apellido= apellido;
 			_dni= dni;
 		}
+
+        public List<Cliente> ListarClientesBD()
+        {
+            List<Cliente> clientes = new List<Cliente>();
+            ClienteDAL clienteDAL = new ClienteDAL();
+			Conexion objConexion  = new Conexion();
+
+            DataTable miTabla = clienteDAL.ClientesBase();
+
+            foreach (DataRow fila in miTabla.Rows)
+            {
+                Cliente cliente = new Cliente(
+                    (int)fila["id"],
+                    fila["nombre"].ToString(),
+                    fila["apellido"].ToString(),
+                    (long)fila["dni"]
+                );
+
+                clientes.Add(cliente);
+            }
+
+            return clientes;
+        }
     }
 }
+

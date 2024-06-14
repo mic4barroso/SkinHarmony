@@ -129,6 +129,7 @@
             this.button1.TabIndex = 9;
             this.button1.Text = "Registrar cliente";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -160,6 +161,7 @@
             this.Controls.Add(this.label1);
             this.Name = "PantallaGestorDeClientes";
             this.Text = "GestorDeClientes";
+            this.Load += new System.EventHandler(this.PantallaGestorDeClientes_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

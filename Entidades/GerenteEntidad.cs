@@ -7,20 +7,11 @@ using System.IO;
 namespace Entidades
 {
     public class GerenteEntidad : UsuarioEntidad
-    {
-        public GerenteEntidad(int id, string nombre, string apellido, long dni, string user, string contrasenia, string estado)
-        {
-            ID = id;
-            Nombre = nombre;
-            Apellido = apellido;
-            DNI = dni;
-            User = user;
-            Contrasenia = contrasenia;
-            Estado = estado;
-        }
-
+    { 
         public GerenteEntidad(int id, string nombre, string apellido, long dni, string user, string contrasenia, string rol, string estado)
-        : base(id, nombre, apellido, dni, user, contrasenia, "Gerente", estado) { }
+        : base(id, nombre, apellido, dni, user, contrasenia, rol, estado) { 
+        //Rol = rol;
+        }
 
         public void CrearInforme(DataTable ventasData, string filePath)
         {
@@ -31,17 +22,15 @@ namespace Entidades
                 doc.Open();
                 doc.Add(new Paragraph("Informe de Ventas"));
                 doc.Add(new Paragraph("Fecha: " + DateTime.Now.ToString("dd/MM/yyyy")));
-                doc.Add(new Paragraph(" ")); // Espacio
+                doc.Add(new Paragraph(" ")); 
 
                 PdfPTable table = new PdfPTable(ventasData.Columns.Count);
 
-                // Añadir encabezados
                 foreach (DataColumn column in ventasData.Columns)
                 {
                     table.AddCell(new Phrase(column.ColumnName));
                 }
 
-                // Añadir datos
                 foreach (DataRow row in ventasData.Rows)
                 {
                     foreach (var cell in row.ItemArray)

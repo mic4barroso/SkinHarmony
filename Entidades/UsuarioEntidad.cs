@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     public abstract class UsuarioEntidad
-    //tiene sublase gerente y administrador que heredan de usuario
     {
         private int _id;
         private string _nombre;

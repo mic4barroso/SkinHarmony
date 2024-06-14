@@ -10,12 +10,14 @@ C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Microsoft.V
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\TestUnitarios.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\BLL.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\DAL.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Entidades.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\itextsharp.dll
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\BLL.pdb
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\DAL.pdb
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Entidades.pdb
 C:\Users\barro\source\repos\TiendaCosmeticos\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml

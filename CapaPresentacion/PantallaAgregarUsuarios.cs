@@ -27,7 +27,7 @@ namespace CapaPresentacion
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
+            /*try
             {
                 string nombre = tboxNombre.Text;
                 string apellido = tboxApellido.Text;
@@ -54,7 +54,7 @@ namespace CapaPresentacion
             catch (Exception ex)
             {
                 MessageBox.Show($"Error: {ex.Message}");
-            }
+            }*/
     }
 
         private void LimpiarCampos()

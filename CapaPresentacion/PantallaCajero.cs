@@ -79,5 +79,11 @@ namespace CapaPresentacion
             PantallaInformes ptallaInformes = new PantallaInformes();
             ptallaInformes.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            PantallaClientes ptalla = new PantallaClientes();
+            ptalla.Show();
+        }
     }
 }
