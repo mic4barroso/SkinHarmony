@@ -67,7 +67,7 @@
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaatencioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\ana\\desktop\\skinharmony\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ana\\Desktop\\SkinHarmony\\capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1F2002B-5E14-4105-92EA-1173FFD549AF}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -268,7 +268,7 @@
               "RelativeDocumentMoniker": "Pruebas Unitarias\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\Pruebas Unitarias\\UnitTest1.cs",
               "RelativeToolTip": "Pruebas Unitarias\\UnitTest1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAAUAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T19:17:43.076Z",
               "EditorCaption": ""
@@ -282,8 +282,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaVenta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:59:26.194Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T01:59:26.194Z"
             },
             {
               "$type": "Document",
@@ -294,8 +293,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaRepositor.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:24:52.391Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-03T14:24:52.391Z"
             },
             {
               "$type": "Document",
@@ -306,8 +304,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaInformes.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaInformes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:50:07.686Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T16:50:07.686Z"
             },
             {
               "$type": "Document",
@@ -319,8 +316,7 @@
               "RelativeToolTip": "DAL\\ProductoDAL.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:39:11.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T15:39:11.464Z"
             },
             {
               "$type": "Document",
@@ -331,8 +327,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerProductos.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\VerProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:00:44.285Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-05T22:00:44.285Z"
             },
             {
               "$type": "Document",
@@ -343,8 +338,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaHistorialVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:37:06.88Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T12:37:06.88Z"
             },
             {
               "$type": "Document",
@@ -355,8 +349,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\VerUsuarios.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:04:17.973Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-05T22:04:17.973Z"
             },
             {
               "$type": "Document",
@@ -367,8 +360,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestionProductos.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:35:09.025Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-06T13:35:09.025Z"
             },
             {
               "$type": "Document",
@@ -379,8 +371,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:00:48.776Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-01T02:00:48.776Z"
             },
             {
               "$type": "Document",
@@ -391,8 +382,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T21:51:26.684Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-12T21:51:26.684Z"
             },
             {
               "$type": "Document",
@@ -403,8 +393,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:26:09.18Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-03T14:26:09.18Z"
             },
             {
               "$type": "Document",
@@ -415,8 +404,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaClientes.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:15:32.413Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T16:15:32.413Z"
             },
             {
               "$type": "Document",
@@ -427,8 +415,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:03:55.845Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-01T02:03:55.845Z"
             },
             {
               "$type": "Document",
@@ -439,8 +426,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:12:39.677Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-11T21:12:39.677Z"
             },
             {
               "$type": "Document",
@@ -451,8 +437,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:25:40.94Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-03T14:25:40.94Z"
             },
             {
               "$type": "Document",
@@ -463,8 +448,7 @@
               "ToolTip": "C:\\Users\\Ana\\Desktop\\SkinHarmony\\CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\PantallaAdministrador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:00:29.388Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-12T23:00:29.388Z"
             },
             {
               "$type": "Document",
@@ -512,8 +496,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaAtencionCliente.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:35:17.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T14:35:17.041Z"
             },
             {
               "$type": "Document",
@@ -525,8 +508,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaCajero.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:36:18.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T14:36:18.531Z"
             },
             {
               "$type": "Document",
@@ -538,8 +520,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaRepositor.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAQwDIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:00:21.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T23:00:21.372Z"
             },
             {
               "$type": "Document",
@@ -551,8 +532,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaGerente.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwC8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:11:32.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T02:11:32.199Z"
             },
             {
               "$type": "Document",
@@ -588,8 +568,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaHistorialVentas.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:50:39.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T12:50:39.096Z"
             },
             {
               "$type": "Document",
@@ -649,8 +628,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaVenta.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAUwB4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:09:32.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T12:09:32.994Z"
             },
             {
               "$type": "Document",
@@ -662,8 +640,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaGestionProductos.cs",
               "ViewState": "AQIAABQAAAAAAAAAAADgvxwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:30:17.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T01:30:17.245Z"
             },
             {
               "$type": "Document",
@@ -675,8 +652,7 @@
               "RelativeToolTip": "CapaPresentacion\\VerProductos.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAArwBAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:02:01.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T22:02:01.138Z"
             },
             {
               "$type": "Document",
@@ -688,8 +664,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:08:35.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T23:08:35.821Z"
             },
             {
               "$type": "Document",
@@ -713,8 +688,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaAgregarProducto.Designer.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAIAxwLoAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:15:32.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T12:15:32.462Z"
             },
             {
               "$type": "Document",
@@ -834,8 +808,7 @@
               "RelativeToolTip": "CapaPresentacion\\VerUsuarios.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T22:05:10.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T22:05:10.839Z"
             },
             {
               "$type": "Document",
@@ -859,8 +832,7 @@
               "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAAABgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:04:44.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T02:04:44.075Z"
             },
             {
               "$type": "Document",
@@ -920,8 +892,7 @@
               "RelativeToolTip": "CapaPresentacion\\PantallaGestorDeClientes.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAYwBsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:15:49.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T21:15:49.621Z"
             },
             {
               "$type": "Document",
@@ -957,8 +928,7 @@
               "RelativeToolTip": "CapaPresentacion\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-03T14:47:03.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T14:47:03.433Z"
             },
             {
               "$type": "Document",
@@ -982,8 +952,7 @@
               "RelativeToolTip": "CapaPresentacion\\Inicio.Designer.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAAAF4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:11:07.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T02:11:07.784Z"
             }
           ]
         }

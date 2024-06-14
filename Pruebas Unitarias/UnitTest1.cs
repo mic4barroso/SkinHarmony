@@ -78,5 +78,17 @@ namespace Pruebas_Unitarias
             DataRow filaProducto = dtProducto.Rows[0];
             Assert.AreEqual(idProducto, (int)filaProducto["IdProducto"], "Se esperaba que el ID del producto fuera el mismo que el ID buscado.");
         }
+        [TestMethod]
+        public void TestObtenerTodosLosProductos()
+        {
+            ProductoDAL productoDAL = new ProductoDAL();
+
+            DataTable dataTable = productoDAL.ProductosBase();
+
+            Assert.IsNotNull(dataTable, "El DataTable de productos no debe ser nulo");
+            Assert.IsTrue(dataTable.Rows.Count > 0, "Se esperaba al menos un producto en el DataTable.");
+            Assert.IsTrue(dataTable.Columns.Contains("IdProducto"), "El DataTable debería contener la columna 'IdProducto'.");
+            Assert.IsTrue(dataTable.Columns.Contains("Nombre"), "El DataTable debería contener la columna 'Nombre'.");
+        }
     }
 }
