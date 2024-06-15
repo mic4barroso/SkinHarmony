@@ -36,6 +36,11 @@ namespace CapaPresentacion
             }).ToList();
         }
 
+        private void btnAgregarUsuario_Click(object sender, EventArgs e)
+        {
+            PantallaAgregarUsuarios ptallaAgregar = new PantallaAgregarUsuarios();
+            ptallaAgregar.ShowDialog();
         }
+    }
 
     }

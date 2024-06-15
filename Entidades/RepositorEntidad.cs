@@ -12,5 +12,4 @@ namespace Entidades
         : base(id, nombre, apellido, dni, user, contrasenia, rol, estado) { }
 
     }
-
 }

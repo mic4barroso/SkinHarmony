@@ -30,10 +30,6 @@ namespace CapaPresentacion
 
             dgvProductos.DataSource = producto.ListarProductosBD();
 
-            BLL.Usuario usuario = new BLL.Usuario();
-
-            dgvUsuarios.DataSource = usuario.ListarUsuariosBase();
-
         }
     }
 }

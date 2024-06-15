@@ -137,6 +137,11 @@ namespace CapaPresentacion
                 MessageBox.Show($"Error al mostrar la pantalla del repositor: {ex.Message}");
             }
         }
+
+        private void tboxContrasenia_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }

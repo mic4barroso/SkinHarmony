@@ -47,6 +47,7 @@
     <Compile Include="Cliente.cs" />
     <Compile Include="DetalleVenta.cs" />
     <Compile Include="Gerente.cs" />
+    <Compile Include="Informe.cs" />
     <Compile Include="ListarUsuarios.cs" />
     <Compile Include="Login.cs" />
     <Compile Include="Producto.cs" />

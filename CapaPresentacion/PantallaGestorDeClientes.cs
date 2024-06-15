@@ -27,5 +27,15 @@ namespace CapaPresentacion
             VerUsuarios verUsuarios = new VerUsuarios();
             verUsuarios.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PantallaGestorDeClientes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

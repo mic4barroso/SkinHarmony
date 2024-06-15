@@ -9,12 +9,8 @@ namespace BLL
     public class Tienda
     {
         public List<Producto> Productos { get; set; }
-
+        public List<Venta> Ventas { get; set; }
         public Tienda() { }
 
-        //agregarProducto
-        //agregarProveedor
-        //realizarVenta
-        //verHistorialVentas
     }
 }

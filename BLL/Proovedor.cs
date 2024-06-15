@@ -1,5 +1,8 @@
-﻿using System;
+﻿using DAL;
+using Entidades;
+using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -34,42 +37,38 @@ namespace BLL
 			set { _mail = value; }
 		}
 
-		private long _telefono;
-
-		public long Telefono
-		{
-			get { return _telefono; }
-			set { _telefono = value; }
-		}
-
 		public Proovedor()
 		{
 		}
 
-		public Proovedor(int id, string razonSocial, string mail, long telefono)
+		public Proovedor(int id, string razonSocial, string mail)
 		{
 			_idProveedor= id;
 			_razonSocial= razonSocial;
 			_mail= mail;
-			_telefono= telefono;
 			Productos = new List<Producto>();	
 		}
 
-        //agregarProducto
-        public void AgregarProductos(Producto producto)
+        public List<Proovedor> ListarProveedores()
         {
-            Productos.Add(producto);
+            List<Proovedor> proveedores = new List<Proovedor>();
+            ProveedorDAL proveedorDAL = new ProveedorDAL(); 
+
+            DataTable miTabla = proveedorDAL.ProveedorBase();
+
+            foreach (DataRow fila in miTabla.Rows)
+            {
+                Proovedor proveedor = new Proovedor(
+                    (int)fila["idProveedor"],
+                    fila["RazonSocial"].ToString(),
+                    fila["email"].ToString()
+                );
+
+                proveedores.Add(proveedor);
+            }
+
+            return proveedores;
         }
-        //eliminarProducto
-		/*public bool EliminarProductos()
-		{
 
-		}*/
-        //obtenerProducto
-        public List<Producto> ObtenerProductos()
-		{
-			return Productos;
-		}
-
-	}
+    }
 }

@@ -48,5 +48,19 @@ namespace CapaPresentacion
         {
             label3.Text = DateTime.Now.ToString();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var confirmar = MessageBox.Show("¿Estas seguro de cerrar sesion?",
+                                     "Salir",
+                                     MessageBoxButtons.YesNo);
+            if (confirmar == DialogResult.Yes)
+            {
+                this.Close();
+
+                Inicio pantallaInicio = new Inicio();
+                pantallaInicio.Show();
+            }
+        }
     }
 }

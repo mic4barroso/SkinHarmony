@@ -16,6 +16,10 @@ namespace DAL
         private SqlConnection objConexion;
         private string strCadenaDeConexion = "";
 
+        public SqlConnection ObtenerConexion()
+        {
+            return new SqlConnection(strCadenaDeConexion);
+        }
 
         /* -------------------- private void Conectar() ------------ 
          * Este metodo como indica su nombre... me permite conectarme con la 
@@ -171,6 +175,7 @@ namespace DAL
             return filasAfectadas;
         }
 
+    
 
         public int EscribirPorStoreProcedure(string pTexto, SqlParameter[] pParametrosSql)
         {

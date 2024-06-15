@@ -8,7 +8,6 @@ namespace Entidades
 {
     public class ProductoEntidad
     {
-        //public Proovedor Proveedor { get; set; }
         private string _nombre;
 
         public string Nombre

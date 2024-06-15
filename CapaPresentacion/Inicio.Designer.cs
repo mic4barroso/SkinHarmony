@@ -74,8 +74,10 @@ namespace CapaPresentacion
             // 
             this.tboxContrasenia.Location = new System.Drawing.Point(406, 196);
             this.tboxContrasenia.Name = "tboxContrasenia";
+            this.tboxContrasenia.PasswordChar = '•';
             this.tboxContrasenia.Size = new System.Drawing.Size(100, 20);
             this.tboxContrasenia.TabIndex = 3;
+            this.tboxContrasenia.TextChanged += new System.EventHandler(this.tboxContrasenia_TextChanged);
             // 
             // btnIniciarSesion
             // 

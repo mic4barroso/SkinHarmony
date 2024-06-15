@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,17 @@ namespace CapaPresentacion
         public PantallaClientes()
         {
             InitializeComponent();
+        }
+
+        private void PantallaClientes_Load(object sender, EventArgs e)
+        {
+            CargarClientes();
+        }
+        private void CargarClientes()
+        {
+            Cliente clienteBLL = new Cliente();
+            List<Cliente> listaClientes = clienteBLL.ListarClientesBD();
+            dgvClientes.DataSource = listaClientes;
         }
     }
 }

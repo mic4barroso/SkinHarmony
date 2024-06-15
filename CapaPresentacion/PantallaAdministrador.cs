@@ -45,11 +45,8 @@ namespace CapaPresentacion
 
         private void button1_Click(object sender, EventArgs e)
         {
-            PantallaGestionProductos ptallaGestionProd = new PantallaGestionProductos();
-            ptallaGestionProd.ShowDialog();
-            /*VerProductos verProductos = new VerProductos();
-
-            verProductos.ShowDialog();*/
+            VerProductos ptallaProd = new VerProductos();
+            ptallaProd.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -73,6 +70,26 @@ namespace CapaPresentacion
         {
             PantallaHistorialVentas ptallaHistorialVentas = new PantallaHistorialVentas();
             ptallaHistorialVentas.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var confirmar = MessageBox.Show("¿Estas seguro de cerrar sesion?",
+                                     "Salir",
+                                     MessageBoxButtons.YesNo);
+            if (confirmar == DialogResult.Yes)
+            {
+                this.Close();
+
+                Inicio pantallaInicio = new Inicio();
+                pantallaInicio.Show();
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            PantallaClientes ptallaCliente = new PantallaClientes();   
+            ptallaCliente.ShowDialog();
         }
     }
 }
